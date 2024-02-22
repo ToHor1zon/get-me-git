@@ -1,0 +1,21 @@
+.p-radiobutton.p-highlight .p-radiobutton-box {
+  border-color: #002366;
+}
+
+.p-radiobutton .p-radiobutton-box .p-radiobutton-icon {
+  background-color: #002366;
+  background-color: #002366;
+}
+
+.p-slider .p-slider-range {
+  background-color: #002366;
+  z-index: 1;
+}
+
+.p-slider-handle {
+  z-index: 1;
+}
+
+* {
+  outline-color: #002366;
+}
