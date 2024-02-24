@@ -1,6 +1,6 @@
 # get-me-git
 
-This template should help get you started developing with Vue 3 in Vite.
+Test case for a company with a redesign of their layout and simple logic
 
 ## Recommended IDE Setup
 
